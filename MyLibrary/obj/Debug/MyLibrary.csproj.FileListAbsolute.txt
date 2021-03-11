@@ -1,0 +1,7 @@
+E:\_CN5\PRN292\Assignment4\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+E:\_CN5\PRN292\Assignment4\MyLibrary\bin\Debug\MyLibrary.pdb
+E:\_CN5\PRN292\Assignment4\MyLibrary\obj\Debug\MyLibrary.pdb
+E:\_CN5\PRN292\Assignment4\MyLibrary\bin\Debug\MyLibrary.dll.config
+E:\_CN5\PRN292\Assignment4\MyLibrary\bin\Debug\MyLibrary.dll
+E:\_CN5\PRN292\Assignment4\MyLibrary\obj\Debug\MyLibrary.dll
+E:\_CN5\PRN292\Assignment4\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
