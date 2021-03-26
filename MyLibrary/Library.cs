@@ -23,7 +23,7 @@ namespace MyLibrary
     }
     public class BookDB
     {
-        private readonly string strConnection = @"server=localhost;database=BookStore_A4;uid=linhtnl;pwd=123";      
+        private readonly string strConnection = @"server=localhost;database=BookStore_A4;uid=sa;pwd=123456";      
        
         public List<Book> getBooks()
         {
@@ -159,7 +159,7 @@ namespace MyLibrary
     }
     public class EmployeeDB
     {
-        private readonly string strConnection = @"server=localhost;database=BookStore_A4;uid=linhtnl;pwd=123";
+        private readonly string strConnection = @"server=localhost;database=BookStore_A4;uid=sa;pwd=123456";
         
         public string CheckLogin(string id, string pass)
         {

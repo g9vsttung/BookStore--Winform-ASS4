@@ -5,3 +5,10 @@ E:\_CN5\PRN292\Assignment4\MyLibrary\bin\Debug\MyLibrary.dll.config
 E:\_CN5\PRN292\Assignment4\MyLibrary\bin\Debug\MyLibrary.dll
 E:\_CN5\PRN292\Assignment4\MyLibrary\obj\Debug\MyLibrary.dll
 E:\_CN5\PRN292\Assignment4\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+G:\FPT\PRN292\ass4\WinForm_BookStore\MyLibrary\bin\Debug\MyLibrary.dll.config
+G:\FPT\PRN292\ass4\WinForm_BookStore\MyLibrary\bin\Debug\MyLibrary.dll
+G:\FPT\PRN292\ass4\WinForm_BookStore\MyLibrary\bin\Debug\MyLibrary.pdb
+G:\FPT\PRN292\ass4\WinForm_BookStore\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+G:\FPT\PRN292\ass4\WinForm_BookStore\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+G:\FPT\PRN292\ass4\WinForm_BookStore\MyLibrary\obj\Debug\MyLibrary.dll
+G:\FPT\PRN292\ass4\WinForm_BookStore\MyLibrary\obj\Debug\MyLibrary.pdb
